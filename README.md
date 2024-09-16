@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to my profile. My name is Brian Stepnitz. I am a father, scholar, hobbyist, and volunteer located in the Baltimore-Washington metro area of Maryland, USA.
+
+I am also an experienced software engineer and systems analyst. I thrive in research and development environments where pioneering research meets practical applications. My core passions include modeling and simulation, machine learning, and data science.
+
+I am eager to contribute to a dynamic, dedicated team to deliver innovative, impactful solutions for complex, analytical challenges. Feel free to reach out if you'd like to collaborate or chat about technology, research, or analysis.
+
+Thanks for looking and have a wonderful day!
+
 <!--
 **brianstepnitz/brianstepnitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
