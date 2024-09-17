@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my profile. My name is Brian Stepnitz. I am a father, scholar, hobbyist, and volunteer located in the Baltimore-Washington metro area of Maryland, USA.
+Welcome to my profile. My name is Brian Stepnitz. I am a father, hobbyist, student, and volunteer located in the Baltimore-Washington metro area of Maryland, USA.
 
 I am also an experienced software engineer and systems analyst. I thrive in research and development environments where pioneering research meets practical applications. My core passions include modeling and simulation, machine learning, and data science.
 
